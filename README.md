@@ -1,252 +1,130 @@
 <div align="center">
 
-# Haris Hamza Ali
+# Hi there, I'm Haris Hamza Ali 👋
 
-### Full Stack Engineer • Generative AI Developer • MERN Stack • AI Enthusiast
+### 🚀 Full Stack Developer | 🤖 Generative AI Enthusiast | 💻 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Building+Scalable+AI-Powered+Applications;MERN+Stack+Developer;Generative+AI+%7C+LLMs+%7C+System+Design;Hackathon+Winner+%F0%9F%8F%86;Always+Building+Something+Cool" />
-
-<img src="https://komarev.com/ghpvc/?username=HarisHamza2445&style=for-the-badge&color=blueviolet" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Web+Applications;Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+React;LLM+Integration+%7C+Generative+AI;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-# 👨‍💻 Who Am I?
+## 💫 About Me
 
-```javascript
-const haris = {
-    role: "Full Stack Developer",
-    location: "Nagpur, India",
+```yaml
+Name: Haris Hamza Ali
+Location: Nagpur, India
 
-    education: "B.Tech AI & Data Science",
+Education:
+  B.Tech Artificial Intelligence & Data Science
 
-    currentlyBuilding: [
-        "AI Products",
-        "Full Stack Applications",
-        "Enterprise Software"
-    ],
+Current Focus:
+  - Full Stack Development
+  - Generative AI
+  - LLM Integration
+  - Scalable Web Applications
 
-    interests: [
-        "Generative AI",
-        "LLMs",
-        "System Design",
-        "Backend Engineering"
-    ],
+Achievements:
+  🥇 1st Place - TechAlpha Hackathon
+  🥇 1st Place - Tech Knowledge 2K26
 
-    motto:
-        "Don't just build apps. Build products people remember."
-}
+Currently Learning:
+  - AI Agents
+  - Advanced Prompt Engineering
+  - Next.js 15
 ```
 
 ---
 
-# 🚀 What I Build
-
-✅ Enterprise AI Applications
-
-✅ Full Stack SaaS Products
-
-✅ AI Automation Systems
-
-✅ Real-Time Applications
-
-✅ Developer Tools
-
-✅ Modern UI/UX Experiences
-
----
-
-# 🏆 Highlights
-
-🥇 **TechAlpha Hackathon Winner**
-
-🏆 1st Place among **100+ Teams**
-
-> Built an AI-powered Candidate Verification Platform using MERN + LLMs.
-
----
-
-🥇 **Tech Knowledge 2K26 Winner**
-
-🏆 1st Place among **50+ Teams**
-
-> Developed an AI-powered Exam Design Engine.
-
----
-
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 ### Languages
 
-C++ • Java • Python • JavaScript • TypeScript • SQL
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
----
+### Full Stack
 
-### Frontend
-
-React.js
-
-Next.js
-
-Tailwind CSS
-
-Material UI
-
-Shadcn/UI
-
-Framer Motion
-
----
-
-### Backend
-
-Node.js
-
-Express.js
-
-REST APIs
-
-JWT
-
-Authentication
-
----
-
-### Databases
-
-MongoDB
-
-MySQL
-
-Firebase
-
----
+React • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • REST APIs
 
 ### AI
 
-Generative AI
+Generative AI • OpenAI • Gemini API • Prompt Engineering • LLM Integration
 
-OpenAI API
+### Tools
 
-Gemini API
-
-Prompt Engineering
-
-LLM Integration
-
----
-
-### DevOps
-
-Git
-
-GitHub
-
-Docker
-
-Postman
+Git • GitHub • Docker • Postman • Firebase
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 HireGuard AI
+### 🤖 HireGuard AI
+Enterprise AI-powered Candidate Verification Platform using MERN + LLMs.
 
-Enterprise AI Candidate Verification Platform
+### 🌾 KrishiMitra
+AI Agriculture Assistant using Google Gemini API.
 
-> Detect AI-generated resumes
+### 🎥 Streamify
+Real-time Video Calling & Chat Application.
 
-> Resume Fraud Detection
-
-> Multi-Agent Architecture
-
-> LLM Integration
-
----
-
-## 🌾 KrishiMitra
-
-AI Agriculture Assistant
-
-✔ Crop Recommendation
-
-✔ Disease Detection
-
-✔ Market Price Prediction
-
-✔ Gemini Vision
+### 🎤 Interview Prep AI
+AI Interview Platform with Voice Interaction.
 
 ---
 
-## 🎤 Interview Prep AI
+# 🏆 Achievements
 
-AI Interview Simulator
+🥇 **TechAlpha Hackathon**
 
-✔ Voice Interview
+- 1st Place among 100+ Teams
+- AI-powered Candidate Verification Platform
 
-✔ Real-time Feedback
+🥇 **Tech Knowledge 2K26**
 
-✔ Role-based Questions
-
-✔ AI Evaluation
-
----
-
-## 🎥 Streamify
-
-Real-time Communication Platform
-
-✔ Video Calls
-
-✔ Screen Sharing
-
-✔ Live Chat
-
-✔ Group Calling
+- 1st Place among 50+ Teams
+- AI-powered Exam Design Engine
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarisHamza2445&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarisHamza2445&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisHamza2445&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisHamza2445&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisHamza2445&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HarisHamza2445&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌍 Connect
+# 🌐 Connect With Me
 
-Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
 
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-Email
-
-LeetCode
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:harishamzaali@gmail.com)
 
 ---
 
 <div align="center">
 
-## 💭 Philosophy
+### 💭 Quote of the Day
 
-> **"I don't just write code.**
->
-> **I engineer scalable software, build AI-powered products,**
->
-> **and create solutions that solve real-world problems."**
+> **"Building scalable software today, shaping intelligent systems for tomorrow."**
 
-⭐ Thanks for visiting my profile!
+⭐ *If you like my work, consider starring my repositories!*
 
 </div>
