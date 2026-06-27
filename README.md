@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer  • 💻 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI-Powered+Applications;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Next.js;Generative+AI+%7C+LLMs+%7C+OpenAI+%7C+Gemini;Hackathon+Winner+🏆;Always+Learning+Something+New" />
-
 
 </div>
 
