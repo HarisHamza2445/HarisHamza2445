@@ -2,11 +2,10 @@
 
 # Hi 👋, I'm Haris Hamza Ali
 
-### 🚀 Full Stack Developer • 🤖 Generative AI Enthusiast • 💻 MERN Stack Developer
+### 🚀 Full Stack Developer  • 💻 MERN Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI-Powered+Applications;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Next.js;Generative+AI+%7C+LLMs+%7C+OpenAI+%7C+Gemini;Hackathon+Winner+🏆;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=HarisHamza2445&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -16,11 +15,8 @@
 
 ```javascript
 const haris = {
-    location: "Nagpur, India",
 
-    role: "Full Stack Developer",
-
-    education: "B.Tech Artificial Intelligence & Data Science",
+ role: "Full Stack Developer",
 
     currentlyWorkingOn: [
         "Generative AI Applications",
@@ -32,7 +28,7 @@ const haris = {
         "LLMs",
         "AI Agents",
         "System Design",
-        "Backend Engineering"
+        "Software development Engineering"
     ],
 
     achievements: [
